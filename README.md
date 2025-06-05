@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 I’m currently a **student** pursuing knowledge and hands-on experience in **software development**
-- 🌱 Currently learning and building with **JavaScript**, **Java**, and a bit of **SQL**
+- 🌱 Currently learning and building with **JavaScript**, **Java**, **OOP**, **C**,,and a bit of **SQL**
 - 💻 Exploring web development and creating projects you'll find in my public repositories
 - 🎯 My goal is to grow into a **full-stack developer** and contribute to impactful tech solutions
 
